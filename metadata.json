@@ -1,0 +1,5 @@
+{
+  "name": "Content Agency Planner",
+  "description": "An application to organize content creation workflows for agency clients, plan posts, and generate Google Slides presentation structures for client review.",
+  "requestFramePermissions": []
+}
